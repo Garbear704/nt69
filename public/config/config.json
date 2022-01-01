@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0d721DA00FdDe5693A2dC3bB374ccC7E8f75AA1A",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x0d721da00fdde5693a2dc3bb374ccc7e8f75aa1a",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 4
+  },
+  "NFT_NAME": "NeoTokyo Aliens",
+  "SYMBOL": "NTA",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ntatest",
+  "SHOW_BACKGROUND": true
+}
